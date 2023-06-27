@@ -20,22 +20,22 @@ body {
 }
 
 main {
-  width: 900px;
+  width: 90rem;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
-  row-gap: 50px;
+  gap: 3rem;
+  row-gap: 5rem;
 }
 
 #cardbase {
-  width: 240px;
-  height: 310px;
+  width: 24rem;
+  height: 31rem;
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  border-radius: 30px;
+  border-radius: 3rem;
   box-shadow: 15px 15px 0px -3px rgba(0, 185, 190, 1);
   -webkit-box-shadow: 15px 15px 0px -3px rgba(0, 185, 190, 1);
   -moz-box-shadow: 15px 15px 0px -3px rgba(0, 185, 190, 1);
@@ -44,13 +44,13 @@ main {
 
 #box {
   width: 100%;
-  height: 210px;
-  border-radius: 30px;
+  height: 21rem;
+  border-radius: 3rem;
   position: relative;
 }
 
 .card1 {
-  padding: 30px;
+  padding: 3rem;
   display: flex;
   justify-content: space-evenly;
 }
@@ -58,8 +58,8 @@ main {
 .card1 h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
-  font-size: 30px;
-  margin-top: 25px;
+  font-size: 3rem;
+  margin-top: 2.5rem;
   text-transform: uppercase;
   color: #46179b;
   border-top: 5px solid #0094a0;
@@ -68,7 +68,7 @@ main {
 
 .card2 {
   display: flex;
-  padding: 15px;
+  padding: 1.5rem;
   position: relative;
 }
 
@@ -78,27 +78,27 @@ main {
 
 .card2img {
   width: 100%;
-  padding: 30px;
+  padding: 3rem;
 }
 
 .arrow {
-  width: 50px;
-  height: 50px;
+  width: 5rem;
+  height: 5rem;
   position: absolute;
   top: 0;
   bottom: 0;
   margin: auto;
   left: 0;
   right: 0;
-  margin-bottom: 52px;
+  margin-bottom: 5.2rem;
   z-index: 5;
 }
 
 .card2 h1 {
   font-family: "Oswald", sans-serif;
   font-weight: 700;
-  font-size: 40px;
-  margin-top: 20px;
+  font-size: 4rem;
+  margin-top: 2rem;
   text-transform: uppercase;
   color: #46179b;
 }
@@ -111,7 +111,7 @@ main {
 
 #boxborder {
   width: 90%;
-  height: 250px;
+  height: 25rem;
   background-color: #fff;
   border: 8px solid #451899;
   border-radius: 40px;
@@ -120,16 +120,16 @@ main {
 
 .card3img {
   width: 100%;
-  padding: 25px 15px 0;
+  padding: 2.5rem 1.5rem 0;
 }
 
 .card3 h1 {
   font-family: "Archivo", sans-serif;
   font-weight: 900;
-  font-size: 30px;
+  font-size: 3rem;
   color: #46179b;
   background-color: #fff;
-  padding: 5px;
+  padding: .5rem;
   position: absolute;
   bottom: 0;
 }
@@ -137,7 +137,7 @@ main {
 .card4 {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 2rem;
 }
 
 .boxCard4 {
@@ -146,35 +146,35 @@ main {
 
 .card4img {
   width: 100%;
-  padding: 15px;
+  padding: 1.5rem;
 }
 
 .card4 h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
-  font-size: 35px;
-  margin-top: 12px;
+  font-size: 3.5rem;
+  margin-top: 1.2rem;
   text-transform: uppercase;
   color: #fff;
   background-color: #0094a0;
-  padding: 8px 20px;
-  border-radius: 20px;
+  padding: .8rem 2rem;
+  border-radius: 2rem;
 }
 
 .card5 {
   display: flex;
   align-items: center;
   position: relative;
-  padding: 15px;
+  padding: 1.5rem;
 }
 
 #boxborder2 {
   width: 92%;
-  height: 190px;
+  height: 19rem;
   background-color: #fff;
-  border: 5px solid #451899;
-  margin-top: 30px;
-  padding: 10px 10px;
+  border: .5rem solid #451899;
+  margin-top: 3rem;
+  padding: 1rem 1rem;
 }
 
 .card5img {
@@ -184,31 +184,31 @@ main {
 .card5 h1 {
   font-family: "Oswald", sans-serif;
   font-weight: 900;
-  font-size: 30px;
+  font-size: 3rem;
   text-transform: uppercase;
   color: #fff;
   background-color: #0094a0;
-  padding: 5px 28px;
-  border-radius: 20px;
+  padding: .5rem 2.8rem;
+  border-radius: 2rem;
 }
 
 .arrow2 {
-  width: 50px;
-  height: 50px;
+  width: 5rem;
+  height: 5rem;
   position: absolute;
   top: 0;
   bottom: 0;
   margin: auto;
   left: 0;
   right: 0;
-  margin-top: 63px;
+  margin-top: 6.3rem;
   z-index: 0;
 }
 
 .card6 {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 2rem;
 }
 
 .boxCard6 {
@@ -217,24 +217,24 @@ main {
 
 .card6img {
   width: 100%;
-  padding: 8px;
+  padding: .8rem;
 }
 
 .card6 h1 {
   font-family: "Archivo", sans-serif;
   font-weight: 900;
-  font-size: 32px;
-  margin-top: 12px;
+  font-size: 3.2rem;
+  margin-top: 1.2rem;
   text-transform: uppercase;
   color: #46179b;
-  margin: 12px 0px;
-  border-radius: 20px;
+  margin: 1.2rem 0px;
+  border-radius: 2rem;
   border: 5px solid #46179b;
   padding: 5px 10px;
 }
 
 @media screen and (max-width: 850px) {
   body {
-    padding: 100px;
+    padding: 5rem;
   }
 }
