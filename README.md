@@ -20,6 +20,7 @@ As I study, all the Random Components repositories also will be growing and gett
 ##### Enquanto estudo, todos os repositórios da série Random Components também irão crescendo e se tornando mais especializados, utilizando uma variedade maior de tecnologias. Não deixe de acompanhar os próximos repositórios para conhecer outros exemplos. Para o presente repositório, estou usando:
 
 <br />
+<br />
 
 <p align="center">
   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-HTML.png?raw=true">
