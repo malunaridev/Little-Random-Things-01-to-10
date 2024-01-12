@@ -15,6 +15,12 @@ Welcome to the first Random Components repository! This is a place where I keep 
 
 ![Technologies used](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Technologies.png?raw=true) ![Tecnologias utilizadas](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Tecnologias.png?raw=true)
 
+As I study, all the Random Components repositories also will be growing and getting more specialized, using a mix of other technologies. Don't forget to check the incoming repositories to see other examples. For this repository, I will be using:
+
+##### Enquanto estudo, todos os repositórios da série Random Components também irão crescendo e se tornando mais especializados, utilizando uma variedade maior de tecnologias. Não deixe de acompanhar os próximos repositórios para conhecer outros exemplos. Para o presente repositório, estou usando:
+
+<br />
+
 <p align="center">
   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-HTML.png?raw=true">
   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-CSS.png?raw=true">
